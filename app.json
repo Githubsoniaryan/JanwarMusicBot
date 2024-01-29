@@ -1,7 +1,7 @@
 {
-    "name": "BRANDED-KING-MUSIC",
+    "name": "𓆩ᴀɴɪᴍᴀʟ𓆪™〆ᴍᴜsɪᴄ𓃮",
     "description": "A VC Player Bot for telegram videochats, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/6a4ac076ff159bdcf9656.jpg",
+    "logo": "https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -32,7 +32,7 @@
         "required": true
       },
       "SESSION": {
-        "description": "A pyrogram v2 string session from @StringFatherBot",
+        "description": "A pyrogram v2 string session from @String_sesion_op_Bot",
         "value": "",
         "required": true
       },
@@ -43,7 +43,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "Link of your telegram support group. (Must pe public)",
-        "value": "https://t.me/BRANDED_WORLD",
+        "value": "https://t.me/royalgroupop",
         "required": false
       }
     },
