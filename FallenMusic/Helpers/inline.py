@@ -45,10 +45,10 @@ buttons = InlineKeyboardMarkup(
         ], 
         [
             InlineKeyboardButton(text="☆ ꜱᴋɪᴘ 🥀", callback_data="skip_cb"),
-            InlineKeyboardButton(text="☆ ᴇᴀᴅ  🥀", callback_data="end_cb"), 
+            InlineKeyboardButton(text="☆ ᴇɴᴅ  🥀", callback_data="end_cb"), 
         ],  
         [    
-            InlineKeyboardButton(text="☆ ʙʀᴀɴᴅᴇᴅ 🥀", user_id=config.OWNER_ID),
+            InlineKeyboardButton(text="☆ ᴀɴɪᴍᴀʟ 🥀", user_id=config.OWNER_ID),
             InlineKeyboardButton(text="☆ ꜱᴜᴘᴘᴏʀᴛ​ 🥀", url=config.SUPPORT_CHAT),
         ], 
         [
@@ -73,7 +73,7 @@ pm_buttons = [
         InlineKeyboardButton(
             text="🌹 ꜱᴏᴜʀᴄᴇ  🦋", url=f"https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
         ),
-        InlineKeyboardButton(text="🌹 ​ʙʀᴀɴᴅᴇᴅ 🦋", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="🌹 ​ᴀɴɪᴍᴀʟ 🦋", user_id=config.OWNER_ID),
     ],
 ]
 
