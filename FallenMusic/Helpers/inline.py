@@ -49,7 +49,7 @@ buttons = InlineKeyboardMarkup(
         ],  
         [    
             InlineKeyboardButton(text="❤️‍🔥ᴀɴɪᴍᴀʟ☆", url=config.SUPPORT_CHAT),
-            InlineKeyboardButton(text="☆ʙᴇᴀᴜᴛʏ💌​", url=config.SUPPORT_CHANNEL),
+            InlineKeyboardButton(text="☆ʙᴇᴀᴜᴛʏ🌹​", url=config.SUPPORT_CHANNEL),
         ], 
         [
             InlineKeyboardButton(text="ᴄʟᴏsᴇ", callback_data="↻ ᴄʟᴏsᴇ ↻"),
