@@ -71,7 +71,7 @@ pm_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="🌹 ꜱᴏᴜʀᴄᴇ  🦋", url="https://github.com/WCGKING/BRANDED-KING-MUSIC1"
+            text="🌹 ꜱᴏᴜʀᴄᴇ  🦋", url=f"https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
         ),
         InlineKeyboardButton(text="🌹 ​ʙʀᴀɴᴅᴇᴅ 🦋", user_id=config.OWNER_ID),
     ],
@@ -91,7 +91,7 @@ gp_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="🌹 ꜱᴏᴜʀᴄᴇ 🦋", url="https://github.com/WCGKING/BRANDED-KING-MUSIC1"
+            text="🌹 ꜱᴏᴜʀᴄᴇ 🦋", url=f"https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
         ),
         InlineKeyboardButton(text="🌹 ​🇧​​🇷​​🇦​​🇳​​🇩​​🇪​​🇩​ 🦋", user_id=config.OWNER_ID),
     ],
