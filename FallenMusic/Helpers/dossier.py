@@ -31,9 +31,9 @@ PM_START_TEXT = """
 
 ➕ ᴀɴᴅ ✰ ᴍᴇ ★ ɪɴ ★ ʏᴏᴜʀ ★  ɢʀᴏᴜᴘ 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴏʀ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/BRANDEDKING82) 
-┣★ ᴜᴘᴅᴀᴛᴇꜱ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/BRANDRD_BOT) 
-┣★ ꜱᴜᴘᴘᴏʀᴛ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/BRANDED_WORLD) 
+┣★ 𝐎𝐖𝐍𝐄𝐑 : [𝗔𝗡𝗜𝗠𝗔𝗟](https://t.me/AnimalJanwarrrr) 
+┣★ 𝐂𝐎-𝐎𝐖𝐍𝐄𝐑 : [𝗧𝗘𝗗𝗗𝗬](https://t.me/M_only_urs) 
+┣★ 𝐑𝐎𝐘𝐀𝐋 : [𝗕𝗘𝗔𝗨𝗧𝗬](https://t.me/itsRareBeautySelenaGomez) 
 ┗━━━━━━━━━━━━━━━━━┛
 
 ๏ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʜᴇʟᴩ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴍʏ ᴍᴏᴅᴜʟᴇs ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs.
