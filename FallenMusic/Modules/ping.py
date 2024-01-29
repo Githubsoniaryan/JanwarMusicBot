@@ -60,7 +60,7 @@ async def ping_fallen(_, message: Message):
          reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("☆ ʙʀᴀɴᴅᴇᴅ ꜱᴜᴘᴘᴏʀᴛ 🥀", url=config.SUPPORT_CHAT),
+                    InlineKeyboardButton("☆ sᴜᴘᴘᴏʀᴛ 🥀", url=config.SUPPORT_CHAT),
                     InlineKeyboardButton(
                         "☆ ꜱᴏᴜʀᴄᴇ 🥀",
                         url=f"https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
