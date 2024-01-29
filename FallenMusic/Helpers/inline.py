@@ -48,8 +48,8 @@ buttons = InlineKeyboardMarkup(
             InlineKeyboardButton(text="☆ ᴇɴᴅ  🥀", callback_data="end_cb"), 
         ],  
         [    
-            InlineKeyboardButton(text="☆ ᴀɴɪᴍᴀʟ 🥀", user_id=config.OWNER_ID),
-            InlineKeyboardButton(text="☆ ꜱᴜᴘᴘᴏʀᴛ​ 🥀", url=config.SUPPORT_CHAT),
+            InlineKeyboardButton(text="❤️‍🔥ᴀɴɪᴍᴀʟ", url=config.SUPPORT_CHAT),
+            InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ💌​", url=config.SUPPORT_CHANNEL),
         ], 
         [
             InlineKeyboardButton(text="ᴄʟᴏsᴇ", callback_data="↻ ᴄʟᴏsᴇ ↻"),
@@ -93,7 +93,7 @@ gp_buttons = [
         InlineKeyboardButton(
             text="🌹 ꜱᴏᴜʀᴄᴇ 🦋", url=f"https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
         ),
-        InlineKeyboardButton(text="🌹 ​🇧​​🇷​​🇦​​🇳​​🇩​​🇪​​🇩​ 🦋", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="🌹 ​ᴀɴɪᴍᴀʟ 🦋", user_id=config.OWNER_ID),
     ],
 ]
 
@@ -107,7 +107,7 @@ helpmenu = [
     ],
     [
         InlineKeyboardButton(text="🌹 ꜱᴜᴅᴏ 🦋", callback_data="fallen_cb sudo"),
-        InlineKeyboardButton(text="🌹 ​ʙʀᴀɴᴅᴇᴅ 🦋", callback_data="fallen_cb owner"),
+        InlineKeyboardButton(text="🌹 ​ᴀɴɪᴍᴀʟ 🦋", callback_data="fallen_cb owner"),
     ],
     [
         InlineKeyboardButton(text="🌹 ʙᴀᴄᴋ 🦋", callback_data="fallen_home"),
