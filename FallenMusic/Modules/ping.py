@@ -63,7 +63,7 @@ async def ping_fallen(_, message: Message):
                     InlineKeyboardButton("☆ ʙʀᴀɴᴅᴇᴅ ꜱᴜᴘᴘᴏʀᴛ 🥀", url=config.SUPPORT_CHAT),
                     InlineKeyboardButton(
                         "☆ ꜱᴏᴜʀᴄᴇ 🥀",
-                        url="https://github.com/WCGKING/BRANDED-KING-MUSIC1",
+                        url=f"https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
                     ),
                 ],
             ]
