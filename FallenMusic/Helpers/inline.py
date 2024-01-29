@@ -86,8 +86,8 @@ gp_buttons = [
         )
     ],
     [
-        InlineKeyboardButton(text="🌹 🇨​​🇭​​🇦​​🇳​​🇳​​🇪​​🇱 🦋", url=config.SUPPORT_CHANNEL),
-        InlineKeyboardButton(text="🌹 🇸​​🇺​​🇵​​🇵​​🇴​​🇷​​🇹 🦋", url=config.SUPPORT_CHAT),
+        InlineKeyboardButton(text="🌹 ᴄʜᴀɴɴᴇʟ 🦋", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="🌹 sᴜᴘᴘᴏʀᴛ 🦋", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
