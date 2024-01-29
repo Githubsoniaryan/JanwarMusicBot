@@ -65,14 +65,14 @@ SUNAME = config.SUPPORT_CHAT.split("me/")[1]
 async def fallen_startup():
     os.system("clear")
     LOGGER.info(
-        "ᴅʀᴏᴘ ʏᴏᴜʀ ɢɪʀʟꜰʀɪᴇɴᴅ'ꜱ ɴᴜᴍʙᴇʀ ᴀᴛ @BRANDEDKING82 ᴊᴏɪɴ @BRANDRD_BOT , @BRANDED_WORLD ꜰᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇꜱ"
+        "[•] ᴅʀᴏᴘ ʏᴏᴜʀ ɢɪʀʟꜰʀɪᴇɴᴅ'ꜱ ɴᴜᴍʙᴇʀ ᴀᴛ @AnimalJanwarrrr ᴊᴏɪɴ @royalgroupop , @itsRareBeautySelenaGomez ꜰᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇꜱ"
     )
     global BOT_ID, BOT_NAME, BOT_USERNAME, BOT_MENTION, fallendb
     global ASS_ID, ASS_NAME, ASS_USERNAME, ASS_MENTION, SUDOERS
 
     await app.start()
     LOGGER.info(
-        "[•] ᴅʀᴏᴘ ʏᴏᴜʀ ɢɪʀʟꜰʀɪᴇɴᴅ'ꜱ ɴᴜᴍʙᴇʀ ᴀᴛ @BRANDEDKING82 ᴊᴏɪɴ @BRANDRD_BOT , @BRANDED_WORLD ꜰᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇꜱ"
+        "[•] ᴅʀᴏᴘ ʏᴏᴜʀ ɢɪʀʟꜰʀɪᴇɴᴅ'ꜱ ɴᴜᴍʙᴇʀ ᴀᴛ @AnimalJanwarrrr ᴊᴏɪɴ @royalgroupop , @itsRareBeautySelenaGomez ꜰᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇꜱ"
     )
 
     getme = await app.get_me()
@@ -83,7 +83,7 @@ async def fallen_startup():
 
     await app2.start()
     LOGGER.info(
-        "[•] ᴅʀᴏᴘ ʏᴏᴜʀ ɢɪʀʟꜰʀɪᴇɴᴅ'ꜱ ɴᴜᴍʙᴇʀ ᴀᴛ @BRANDEDKING82 ᴊᴏɪɴ @BRANDRD_BOT , @BRANDED_WORLD ꜰᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇꜱ"
+        "[•] ᴅʀᴏᴘ ʏᴏᴜʀ ɢɪʀʟꜰʀɪᴇɴᴅ'ꜱ ɴᴜᴍʙᴇʀ ᴀᴛ @AnimalJanwarrrr ᴊᴏɪɴ @royalgroupop , @itsRareBeautySelenaGomez ꜰᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇꜱ"
     )
 
     getme2 = await app2.get_me()
@@ -107,11 +107,11 @@ async def fallen_startup():
 
     fallendb = {}
     LOGGER.info(
-        "[•] ᴅʀᴏᴘ ʏᴏᴜʀ ɢɪʀʟꜰʀɪᴇɴᴅ'ꜱ ɴᴜᴍʙᴇʀ ᴀᴛ @BRANDEDKING82 ᴊᴏɪɴ @BRANDRD_BOT , @BRANDED_WORLD ꜰᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇꜱ"
+        "[•] ᴅʀᴏᴘ ʏᴏᴜʀ ɢɪʀʟꜰʀɪᴇɴᴅ'ꜱ ɴᴜᴍʙᴇʀ ᴀᴛ @AnimalJanwarrrr ᴊᴏɪɴ @royalgroupop , @itsRareBeautySelenaGomez ꜰᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇꜱ"
     )
 
     LOGGER.info(
-        "[•] ᴅʀᴏᴘ ʏᴏᴜʀ ɢɪʀʟꜰʀɪᴇɴᴅ'ꜱ ɴᴜᴍʙᴇʀ ᴀᴛ @BRANDEDKING82 ᴊᴏɪɴ @BRANDRD_BOT , @BRANDED_WORLD ꜰᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇꜱ"
+        "[•] ᴅʀᴏᴘ ʏᴏᴜʀ ɢɪʀʟꜰʀɪᴇɴᴅ'ꜱ ɴᴜᴍʙᴇʀ ᴀᴛ @AnimalJanwarrrr ᴊᴏɪɴ @royalgroupop , @itsRareBeautySelenaGomez ꜰᴏʀ ᴀɴʏ ɪꜱꜱᴜᴇꜱ"
     )
 
 
