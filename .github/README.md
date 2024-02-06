@@ -37,7 +37,7 @@
 
 ## sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs 🚬🦋
 
-- [Rᴏʏᴀʟ](https://t.me/royalgroupop)
+- [Rᴏʏᴀʟ](https://t.me/knight_society)
 - [Bᴇᴀᴜᴛʏ](https://t.me/itsRareBeautySelenaGomez)
 
 
