@@ -28,7 +28,7 @@
       },
       "OWNER_ID": {
         "description": "Fill your user id here. (Must be integer)",
-        "value": "1777910193",
+        "value": "",
         "required": true
       },
       "SESSION": {
